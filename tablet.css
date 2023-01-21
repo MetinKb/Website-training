@@ -1,0 +1,14 @@
+@media only screen and (max-width: 900px) {
+
+    html {
+        font-size: 14px;
+    }
+
+    main .educations-container .educations {
+        flex-direction: column;
+    }
+
+    .educations-container .education {
+        width: 90%;
+    }
+}

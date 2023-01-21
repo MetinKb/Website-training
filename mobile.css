@@ -1,0 +1,34 @@
+@media only screen and (max-width: 600px) {
+
+    html {
+        font-size: 12px;
+    }
+
+    .main-toggle {
+        margin-top: 15rem;
+    }
+
+    /* Main Start */
+
+    .main-container img {
+        width: 14rem;
+    }
+
+    /* Educations */
+
+    main .educations-container .educations {
+        flex-direction: column;
+    }
+
+    .educations-container .education {
+        width: 90%;
+    }
+
+    /* Courses */
+
+    .courses-container .course div {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+}
